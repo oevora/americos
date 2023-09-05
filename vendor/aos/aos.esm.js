@@ -7,6 +7,7 @@ function containsAOSNode(nodes) {
   var i = void 0,
       currentNode = void 0,
       result = void 0;
+      
 
   for (i = 0; i < nodes.length; i += 1) {
     currentNode = nodes[i];
